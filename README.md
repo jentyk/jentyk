@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=jentyk&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://trophy.ryglcloud.net/?username=jentyk&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Hi there 👋
 
